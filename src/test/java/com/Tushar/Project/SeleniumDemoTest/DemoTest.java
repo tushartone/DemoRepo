@@ -23,5 +23,10 @@ public class DemoTest {
 		System.out.println(title);
 		driver.quit();
 	}
+	
+	public void googleTest()
+	{
+		System.out.println("Google Form");
+	}
 
 }
