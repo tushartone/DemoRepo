@@ -7,4 +7,8 @@ public class SearchPage {
 		System.out.println("SearchPage");
 	}
 
+	public void getSerachData()
+	{
+		System.out.println("SearchData");
+	}
 }
